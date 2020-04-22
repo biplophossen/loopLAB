@@ -1,0 +1,76 @@
+body{
+	background-color: #333;
+	color: #fff;
+}
+/* NAVBAR START  */
+.navbar{
+	border-bottom: 3px solid #39cae9;
+	background-color: #636161;
+	opacity: 0.7;
+}
+/* NAVBAR END  */
+
+
+/* HOME SECTION START  */
+#home-section{
+	background-image: url(../img/2.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	min-height: 700px;
+}
+.dark-overly{
+	background-color: rgba(0,0,0,0.6);
+	min-height: 700px;
+}
+.home-inner{
+	padding-top: 130px;
+	padding-bottom: 40px;
+}
+#home-section .fa{
+	background-color: #fff;
+	padding: 4px;
+	font-size: 30px;
+	color: #129bff;
+	border-radius: 4px;
+	
+}
+.card{
+	opacity: 0.8;
+}
+/* HOME SECTION END  */
+
+
+/* EXPLORE SECTION START  */
+#explore-min-section .fa{
+	background-color: #333;
+	color: #fff;
+	padding: 4px;
+	font-size: 30px;
+	border-radius: 4px;
+}
+/* EXPLORE SECTION END  */
+
+/* EXPLORE MIN SECTION START  */
+#create-min-section .fa{
+	background-color: #fff;
+	color: #0998f2;
+	padding: 4px;
+	font-size: 30px;
+	border-radius: 4px;
+}
+/* EXPLORE MIN SECTION ENd  */
+
+
+/* SHARE MIN SECTION START  */
+#share-section .fa{
+	background-color: #333;
+	color: #fff;
+	padding: 4px;
+	font-size: 30px;
+	border-radius: 4px;
+}
+/* SHARE MIN SECTION START  */
+
+
